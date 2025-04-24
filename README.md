@@ -13,6 +13,6 @@ Payroll Database
 - Raidan George (developed data + contributed to final project.)
 
 ## Link to Portal Shown HERE:
-(Link input)
+https://mattiep20.github.io/NexusPayrollSite/
 
   
