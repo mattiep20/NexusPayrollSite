@@ -1,5 +1,6 @@
 # NexusPayrollSite
 Payroll Database
+(This is a hypothetical payroll system)
 
 ## Features Included
 - Weekly Gross Pay calculator.
